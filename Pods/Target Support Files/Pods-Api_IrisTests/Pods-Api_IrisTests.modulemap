@@ -1,0 +1,6 @@
+framework module Pods_Api_IrisTests {
+  umbrella header "Pods-Api_IrisTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
